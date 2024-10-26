@@ -1,0 +1,27 @@
+body{
+    front-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0efef;
+}
+header{
+    background-color: rgb(125, 52, 235);
+    color:rgb(206, 129, 220);
+    text-align: center;
+    padding: 1m 0;/*la primera propiedad aplica arriba y abajo y la segunda izquierda y derecha*/
+
+}
+main{
+    padding: 20px;
+    text-align:center;
+}
+footer{
+    background-color: rgb(122, 95, 204);
+    color: #fff;
+    text-align: center;
+    padding: 1lem 0;
+    position:fixed;
+    width: 100%;
+    bottom: 0;
+}
+    
